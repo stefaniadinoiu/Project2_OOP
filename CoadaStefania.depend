@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1554772561 source:c:\users\aurica\documents\projects\tema 3\coadastefania\main.cpp
+	<iostream>
+	"LinkedList.h"
+	"Coada.h"
+	"Deque.h"
+	"PriorityQueue.h"
+	<cstdio>
+	<cstdlib>
+
+1554772874 c:\users\aurica\documents\projects\tema 3\coadastefania\linkedlist.h
+	"Node.h"
+	<ostream>
+	<cassert>
+
+1554772806 c:\users\aurica\documents\projects\tema 3\coadastefania\node.h
+
+1554773010 c:\users\aurica\documents\projects\tema 3\coadastefania\coada.h
+	"LinkedList.h"
+
+1554773089 c:\users\aurica\documents\projects\tema 3\coadastefania\deque.h
+	"Coada.h"
+
+1554773146 c:\users\aurica\documents\projects\tema 3\coadastefania\priorityqueue.h
+	"Coada.h"
+
+1554773044 source:c:\users\aurica\documents\projects\tema 3\coadastefania\coada.cpp
+	"Coada.h"
+	<iostream>
+	<cstring>
+
+1554772948 source:c:\users\aurica\documents\projects\tema 3\coadastefania\linkedlist.cpp
+	"LinkedList.h"
+	<iostream>
+
+1554772804 source:c:\users\aurica\documents\projects\tema 3\coadastefania\node.cpp
+	"Node.h"
+
+1554773115 source:c:\users\aurica\documents\projects\tema 3\coadastefania\deque.cpp
+	"Deque.h"
+	<cstring>
+	<iostream>
+
+1554773171 source:c:\users\aurica\documents\projects\tema 3\coadastefania\priorityqueue.cpp
+	"PriorityQueue.h"
+	<iostream>
+	<cstring>
+
+1554819595 source:c:\users\stefania\desktop\coadastefania\main.cpp
+	<iostream>
+	"LinkedList.h"
+	"Coada.h"
+	"Deque.h"
+	"PriorityQueue.h"
+	<cstdio>
+	<cstdlib>
+
+1554820362 c:\users\stefania\desktop\coadastefania\linkedlist.h
+	"Node.h"
+	<ostream>
+	<cassert>
+
+1554820362 c:\users\stefania\desktop\coadastefania\node.h
+
+1554774120 c:\users\stefania\desktop\coadastefania\coada.h
+	"LinkedList.h"
+
+1554774120 c:\users\stefania\desktop\coadastefania\deque.h
+	"Coada.h"
+
+1554802570 c:\users\stefania\desktop\coadastefania\priorityqueue.h
+	"Coada.h"
+
+1554774120 source:c:\users\stefania\desktop\coadastefania\coada.cpp
+	"Coada.h"
+	<iostream>
+	<cstring>
+
+1554774120 source:c:\users\stefania\desktop\coadastefania\deque.cpp
+	"Deque.h"
+	<cstring>
+	<iostream>
+
+1554820362 source:c:\users\stefania\desktop\coadastefania\linkedlist.cpp
+	"LinkedList.h"
+	<iostream>
+
+1554820362 source:c:\users\stefania\desktop\coadastefania\node.cpp
+	"Node.h"
+
+1554774120 source:c:\users\stefania\desktop\coadastefania\priorityqueue.cpp
+	"PriorityQueue.h"
+	<iostream>
+	<cstring>
+
